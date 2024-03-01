@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maziar101
 - 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on Big Companies
 - 📫 How to reach me in Telegram => @LuciferorAngel
 
