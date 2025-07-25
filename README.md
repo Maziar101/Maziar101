@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome To My Github Page !<br>My name Is Maziar And Im A MERN Stack Developer<br><br>M = Mongo Database<br>E = Express Library Of Nodejs<br>R = React , Library Of Javascript<br>N = Nodejs , RunTime Environment 
+Welcome To My Github Page !<br>My name Is Maziar And Im A MERN Stack Developer<br><br>M = Mongo Database<br>E  = Express Library Of Nodejs<br>R = React , Library Of Javascript<br>N = Nodejs , RunTime Environment 
 
 ## 🌐 Socials:
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/luciferorangei)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@real_maziar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maziar-zamani-3173ab245/) 
